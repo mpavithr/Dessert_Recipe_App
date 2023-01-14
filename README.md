@@ -1,5 +1,5 @@
 # Dessert_Recipe_App
-## iOS App that lets users view different dessert recipes
+## iOS App that lets users select and view all sorts of dessert recipes
 
 Built on Swift Playgrounds.
 
